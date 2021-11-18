@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         setupOTP()
     }
 
+    // Setup
     func setupOTP() {
         let otp = OTP(digitNumber: 6)
         
