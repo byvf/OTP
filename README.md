@@ -1,4 +1,5 @@
-# OTP
+# ▤ OTP
+
 ## Overview
 
 OTP is a simple and easy text field control written in Swift.
@@ -11,3 +12,6 @@ Check out the example project to see it in action!
 | Default |
 | --- |
 | ![](https://github.com/byvf/OTP/blob/main/otpVideoWithAlert.gif) |
+
+## Contributed
+This is an open source project, so feel free to contribute.
