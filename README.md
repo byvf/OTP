@@ -3,7 +3,7 @@
 
 OTP is a simple and easy text field control written in Swift.
 - [x] **It can be implemented in storyboard without.
-- [x] Highly customizable without needing to write tons of custom code.
+- [x] Look examples in code.
 - [x] Support both portrait and landscape views.
 
 Check out the example project to see it in action!
